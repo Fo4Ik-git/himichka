@@ -1,0 +1,11 @@
+.link{
+    text-decoration: none;
+    text-decoration: underline;
+    clear: white;
+}
+.caht-result{
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+
